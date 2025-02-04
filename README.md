@@ -1,5 +1,5 @@
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/solaiman-siam/react-starter-001.git
 
 # Navigate to the project directory
 cd your-repo
